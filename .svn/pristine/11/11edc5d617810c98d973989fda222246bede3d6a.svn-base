@@ -1,0 +1,15 @@
+000000=success
+100001=message json format is not correct 
+100002=unkown error
+100003=request message body is null
+100004=request message body common is null
+100005=request message body equipment is null
+100006=request message body location is null
+100007=request message header is null
+100008=request message header systime is null
+100009=request message body common username is null
+101010=request message body common appid is null
+101011=request message body common os is null
+101012=request message body common triggertime is null
+101013=request message risk anysis error
+101014=request message equipment A_cpuid or I_idfa is null
